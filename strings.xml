@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bingo Dice AutoPlay</string>
+    <string name="accessibility_description">Accessibility service scaffold for user-controlled Bingo Dice automation.</string>
+</resources>
